@@ -10,3 +10,6 @@ uwsgi==2.0.15
 setuptools==27.2.0
 flask-restful==0.3.6
 requests==2.11.1
+bs4
+urllib3
+win32com
