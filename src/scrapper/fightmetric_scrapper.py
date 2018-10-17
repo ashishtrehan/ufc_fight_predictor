@@ -8,13 +8,28 @@ import time
 import requests
 from bs4 import BeautifulSoup
 
+def url_cleaner(link):
+    if not pd.isnull(link):
+        try:  # fix issue of str(link_text) not working due to unknown unicode character
+            if str.find(link,r'http://www.fightmetric.com/event-details/') != -1:
+                return link
+            else:
+                pass
+        except:
+            pass
 
 
+def obtain_urls():
+    #Obtain all fightmetric urls to loop through
+    page = requests.get('http://www.fightmetric.com/statistics/events/completed?page=all')
+    soup = BeautifulSoup(page.content,features="lxml")
+    urls_list = []
+    all_links = soup.find_all("a")
+    text = [url_cleaner(x.get("href")) for x in all_links
+            if url_cleaner(x.get("href")) is not None]
+    return text
 
-page = requests.get('http://www.fightmetric.com/statistics/events/completed?page=all')
-soup = BeautifulSoup(page.content,features="lxml")
 
-# urls_list = []
 # all_links = soup.find_all("a")
 # for link in all_links:
 #     link_text = link.get("href")
@@ -26,4 +41,4 @@ soup = BeautifulSoup(page.content,features="lxml")
 #         if str.find(str(link_text),r'http://www.fightmetric.com/event-details/') != -1:
 #             urls_list.append(link_text)
 
-print (soup)
+print (obtain_urls())
