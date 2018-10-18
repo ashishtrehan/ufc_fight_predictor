@@ -1,0 +1,25 @@
+WL,Fighter,Str,Td,Sub,Pass,Weightclass,Method,Round,Time,Fight Number,Opponent,Date,Event,Url
+win,Khabib Nurmagomedov,70,3,1,5,Lightweight,SUB  Neck Crank,4,3:03,0,Conor McGregor,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+loss,Conor McGregor,51,0,0,0,Lightweight,SUB  Neck Crank,4,3:03,0,Khabib Nurmagomedov,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+win,Tony Ferguson,114,0,0,0,Lightweight,KO/TKO,2,5:00,1,Anthony Pettis,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+loss,Anthony Pettis,45,0,0,0,Lightweight,KO/TKO,2,5:00,1,Tony Ferguson,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+win,Dominick Reyes,94,0,0,0,Light Heavyweight,U-DEC,3,5:00,2,Ovince Saint Preux,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+loss,Ovince Saint Preux,38,1,0,0,Light Heavyweight,U-DEC,3,5:00,2,Dominick Reyes,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+win,Derrick Lewis,39,0,0,0,Heavyweight,KO/TKO  Punches,3,4:49,3,Alexander Volkov,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+loss,Alexander Volkov,121,1,0,3,Heavyweight,KO/TKO  Punches,3,4:49,3,Derrick Lewis,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+win,Michelle Waterson,76,0,0,2,Women's Strawweight,U-DEC,3,5:00,4,Felice Herrig,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+loss,Felice Herrig,51,1,0,0,Women's Strawweight,U-DEC,3,5:00,4,Michelle Waterson,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+loss,Sergio Pettis,30,0,0,0,Flyweight,U-DEC,3,5:00,5,Jussier Formiga,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+win,Jussier Formiga,18,2,0,2,Flyweight,U-DEC,3,5:00,5,Sergio Pettis,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+loss,Jalin Turner,31,0,0,0,Welterweight,KO/TKO  Punches,1,3:52,6,Vicente Luque,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+win,Vicente Luque,41,0,0,0,Welterweight,KO/TKO  Punches,1,3:52,6,Jalin Turner,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+loss,Tonya Evinger,9,0,0,0,Women's Bantamweight,KO/TKO  Punches,1,3:26,7,Aspen Ladd,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+win,Aspen Ladd,50,0,0,1,Women's Bantamweight,KO/TKO  Punches,1,3:26,7,Tonya Evinger,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+loss,Alan Patrick,25,0,0,0,Lightweight,KO/TKO  Elbows,3,3:42,8,Scott Holtzman,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+win,Scott Holtzman,73,1,0,4,Lightweight,KO/TKO  Elbows,3,3:42,8,Alan Patrick,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+loss,Lina Lansberg,43,0,1,0,Women's Bantamweight,U-DEC,3,5:00,9,Yana Kunitskaya,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+win,Yana Kunitskaya,72,5,1,2,Women's Bantamweight,U-DEC,3,5:00,9,Lina Lansberg,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+loss,Gray Maynard,13,0,0,0,Lightweight,KO/TKO  Kick,2,1:19,10,Nik Lentz,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+win,Nik Lentz,75,2,1,3,Lightweight,KO/TKO  Kick,2,1:19,10,Gray Maynard,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+win,Tony Martin,36,0,1,4,Welterweight,KO/TKO  Kick,3,1:00,11,Ryan LaFlare,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+loss,Ryan LaFlare,35,0,0,0,Welterweight,KO/TKO  Kick,3,1:00,11,Tony Martin,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
