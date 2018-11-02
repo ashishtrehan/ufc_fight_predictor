@@ -43,6 +43,7 @@ def name_standardizer():
     return fighter_name_standardization_dict
 
 def replace_if_in_dict(parm,mydict):
+    #TODO remove pandas
     if not pd.isnull(parm) and parm in list(mydict.keys()):
         parm = mydict[parm]
     return parm

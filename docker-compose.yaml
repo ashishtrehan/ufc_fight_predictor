@@ -1,0 +1,24 @@
+version: '2'
+
+services:
+
+  segment-webhooks:
+    image: MMA-predictor:latest
+    build: ""
+    mem_limit: 100M
+    restart: always
+    ports:
+     - "8081:80"
+    env_file:
+      - dev-docker/local.env
+
+  clutchdb:
+    restart: always
+    image: postgres:9.6
+    command: postgres -c logging_collector=on -c log_statement=all
+    volumes:
+      - ./dev-docker/SQL/init_clutchdb.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "8432:5432"
+    env_file:
+      - dev-docker/local_clutchdb.env

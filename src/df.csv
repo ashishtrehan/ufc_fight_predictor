@@ -23,3 +23,31 @@ loss,Gray Maynard,13,0,0,0,Lightweight,KO/TKO  Kick,2,1:19,10,Nik Lentz,2018-10-
 win,Nik Lentz,75,2,1,3,Lightweight,KO/TKO  Kick,2,1:19,10,Gray Maynard,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
 win,Tony Martin,36,0,1,4,Welterweight,KO/TKO  Kick,3,1:00,11,Ryan LaFlare,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
 loss,Ryan LaFlare,35,0,0,0,Welterweight,KO/TKO  Kick,3,1:00,11,Tony Martin,2018-10-06,UFC 229: Khabib vs. McGregor,http://www.fightmetric.com/event-details/1ef0eae31904e534
+win,Thiago Santos,100,1,0,1,Light Heavyweight,KO/TKO,3,5:00,0,Eryk Anders,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Eryk Anders,32,6,1,2,Light Heavyweight,KO/TKO,3,5:00,0,Thiago Santos,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+win,Alex Oliveira,7,0,0,0,Welterweight,KO/TKO  Punch,1,0:39,1,Carlo Pedersoli,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Carlo Pedersoli,2,0,0,0,Welterweight,KO/TKO  Punch,1,0:39,1,Alex Oliveira,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+win,Antonio Rogerio Nogueira,26,0,0,0,Light Heavyweight,KO/TKO  Punch,2,1:00,2,Sam Alvey,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Sam Alvey,34,0,0,0,Light Heavyweight,KO/TKO  Punch,2,1:00,2,Rogerio Nogueira,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+win,Andre Ewell,53,1,0,0,Bantamweight,S-DEC,3,5:00,3,Renan Barao,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Renan Barao,44,3,2,3,Bantamweight,S-DEC,3,5:00,3,Andre Ewell,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+draw  draw,Randa Markos,48,2,0,4,Women's Strawweight,M-DEC,3,5:00,4,Marina Rodriguez,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+draw  draw,Marina Rodriguez,60,0,0,0,Women's Strawweight,M-DEC,3,5:00,4,Randa Markos,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+win,Charles Oliveira,28,2,1,3,Lightweight,SUB  Rear Naked Choke,2,3:22,5,Christos Giagos,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Christos Giagos,18,0,0,0,Lightweight,SUB  Rear Naked Choke,2,3:22,5,Charles Oliveira,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+win,Francisco Trinaldo,28,0,0,1,Lightweight,KO/TKO  Knee,2,4:10,6,Evan Dunham,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Evan Dunham,25,1,0,0,Lightweight,KO/TKO  Knee,2,4:10,6,Francisco Trinaldo,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Luis Henrique,30,4,1,2,Light Heavyweight,U-DEC,3,5:00,7,Ryan Spann,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+win,Ryan Spann,46,0,1,5,Light Heavyweight,U-DEC,3,5:00,7,Luis Henrique,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+win,Augusto Sakai,111,1,0,1,Heavyweight,KO/TKO  Punches,3,4:03,8,Chase Sherman,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Chase Sherman,79,0,0,0,Heavyweight,KO/TKO  Punches,3,4:03,8,Augusto Sakai,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Ben Saunders,1,0,0,1,Welterweight,SUB  Arm Triangle,2,4:42,9,Sergio Moraes,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+win,Sergio Moraes,2,2,2,4,Welterweight,SUB  Arm Triangle,2,4:42,9,Ben Saunders,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Gillian Robertson,11,1,0,2,Women's Flyweight,SUB  Armbar,1,4:55,10,Mayra Bueno Silva,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+win,Mayra Bueno Silva,11,0,1,0,Women's Flyweight,SUB  Armbar,1,4:55,10,Gillian Robertson,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Hector Lombard,46,0,0,0,Middleweight,U-DEC,3,5:00,11,Thales Leites,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+win,Thales Leites,54,2,0,0,Middleweight,U-DEC,3,5:00,11,Hector Lombard,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Luigi Vendramini,4,0,1,1,Welterweight,KO/TKO  Flying Knee,2,1:20,12,Elizeu Zaleski dos Santos,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+win,Elizeu Zaleski Dos Santos,15,0,0,0,Welterweight,KO/TKO  Flying Knee,2,1:20,12,Luigi Vendramini,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+win,Livinha Souza,10,1,1,2,Women's Strawweight,SUB  Guillotine Choke,1,1:21,13,Alex Chambers,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334
+loss,Alex Chambers,4,0,0,0,Women's Strawweight,SUB  Guillotine Choke,1,1:21,13,Livinha Souza,2018-09-22,UFC Fight Night: Marreta vs. Anders,http://www.fightmetric.com/event-details/852454c572675334

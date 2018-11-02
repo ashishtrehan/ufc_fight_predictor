@@ -100,4 +100,4 @@ def iterate_scrape(list):
 
 
 
-iterate_scrape(obtain_urls()[:2])
+iterate_scrape(obtain_urls()[:3])
